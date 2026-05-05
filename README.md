@@ -1,45 +1,100 @@
-# Hi, I'm Gurveer Singh 👋  
-I'm a Full-Stack Developer from Mumbai, India
-With hands-on experience in SaaS development, scalable backends, and AI-powered apps, I build modern platforms that are fast, reliable, and production-ready.
+Hi, I'm Gurveer Singh 👋
+
+Full-Stack Developer | Backend Enthusiast | Aspiring Software Engineer
+
+I’m a final-year IT student from Mumbai who enjoys building scalable products and learning how real production systems work.
+My focus is on backend engineering, system design, and problem solving.
+
 
 ---
 
-## 🔧 What I Do  
-✅ Full-stack development (Next.js, MERN, React Native)  
-✅ Backend development with Node.js, Express, Supabase & PostgreSQL  
-✅ Scalable APIs, authentication, role-based access, and integrations  
-✅ AI-powered applications (Vapi, Gemini API)  
-✅ Ecommerce systems with dashboard, JWT auth & Cloudinary  
-✅ Cloud deployments (Vercel, Render, Railway)
+🚀 About Me
+
+• Full-stack developer with startup internship experience
+• Strong foundation in Data Structures & Algorithms
+• Interested in scalable backend systems & SaaS products
+• Currently preparing for full-time Software Engineering roles (2027)
+
 
 ---
 
-## 🛠 Tech Stack  
+🔧 What I Build
 
-### **Frontend**
-React • Next.js • React Native • Tailwind CSS • TypeScript
+Scalable full-stack web apps and SaaS platforms
 
-### **Backend**
-Node.js • Express.js • Supabase • PostgreSQL • MongoDB • JWT • Stripe • Cloudinary
+Backend APIs with authentication, RBAC & integrations
 
-### **Tools**
-Git • GitHub • VS Code • Postman • Sentry • NPM • Redux • Axios
+Async systems, cloud storage & third-party integrations
 
-### **Platforms**
-Vercel • Railway • Render • Supabase • Stripe
+AI-powered apps using modern LLM APIs
 
----
+Ecommerce and dashboard-style applications
 
-## 🎯 Coding & Achievements  
-- 900+ DSA problems solved  
-- LeetCode: 400+ problems  
-- Codeforces Max Rating: 1111  
-- CodeChef Max Rating: 1492  
-- HackerRank 5⭐ in C++  
-- Problem Setter & Tester @ TCET Shastra  
+
 
 ---
 
-## 📫 Get in Touch  
-[LinkedIn](https://www.linkedin.com/in/gurveer27/) • [GitHub](https://github.com/Gurveer2711) • [LeetCode](https://leetcode.com/u/gurveersingh27/) • [Email](mailto:singhgurveer3370@gmail.com)
+🛠 Tech Stack
 
+Frontend
+
+React • Next.js • React Native • TypeScript • Tailwind CSS
+
+Backend
+
+Node.js • Express.js • Supabase • PostgreSQL • MongoDB
+JWT Auth • REST APIs • Cloudinary • Stripe
+
+Tools & DevOps
+
+Git • GitHub • Postman • Redux • Axios • Sentry
+Vercel • Railway • Render • Supabase
+
+
+---
+
+💼 Experience Snapshot
+
+• Worked as a Full-Stack Intern at 2 startups
+• Built and contributed to real production systems
+• Hands-on experience with scalable backend architecture
+
+
+---
+
+🧠 Problem Solving & Competitive Programming
+
+1100+ DSA problems solved
+
+LeetCode rating: 1683
+
+~1600 global rank in a LeetCode contest
+
+Codeforces Max Rating: 1111
+
+CodeChef Max Rating: 1492
+
+HackerRank: 5⭐ in C++
+
+
+
+---
+
+🎯 Currently Focusing On
+
+Strengthening CS fundamentals (OS, DBMS, CN)
+
+Learning System Design
+
+Improving competitive programming (aiming for LeetCode Knight)
+
+
+
+---
+
+📫 Connect With Me
+
+• LinkedIn: https://www.linkedin.com/in/gurveer27/
+• GitHub: https://github.com/Gurveer2711
+• LeetCode: https://leetcode.com/u/gurveersingh27/
+• Email: singhgurveer3370@gmail.com
